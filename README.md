@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```sh
-yarn add -g node
-npm install -g node
+$ yarn add -g node
+$ npm install -g node
 ```
 
 ### Installing
@@ -35,7 +35,7 @@ Running command:
 ```sh
 $ btc-converter -C BRL
 ```
-Restul:
+Result:
 ```
 1 BTC to BRL = 32895.27
 ```
