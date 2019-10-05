@@ -4,7 +4,7 @@ module.exports = {
     es6: true,
     mocha: true,
   },
-  extends: ['airbnb', 'plugin:mocha/recommended'],
+  extends: ['airbnb-base', 'plugin:mocha/recommended'],
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',
